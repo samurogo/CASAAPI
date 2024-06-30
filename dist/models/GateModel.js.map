@@ -1,0 +1,1 @@
+{"version":3,"file":"GateModel.js","sourceRoot":"","sources":["../../src/models/GateModel.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;AAAA,0BAA0B;AAC1B,qDAAsD;AAMtD,MAAM,UAAU,GAAW,IAAI,iBAAM,CAAC;IACpC,MAAM,EAAE,EAAE,IAAI,EAAE,OAAO,EAAE,OAAO,EAAE,KAAK,EAAE;CAC1C,CAAC,CAAC;AAEH,MAAM,SAAS,GAAG,kBAAQ,CAAC,KAAK,CAAe,MAAM,EAAE,UAAU,CAAC,CAAC;AAEnE,kBAAe,SAAS,CAAC"}
